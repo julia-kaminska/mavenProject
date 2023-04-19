@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f3a763a-b5f9-4b36-bf7b-00bd74433465" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery-administration/application/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/delivery-administration/application/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery-administration/domain/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/delivery-administration/domain/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery-administration/domain/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/delivery-administration/domain/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery-administration/infrastructure/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/delivery-administration/infrastructure/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1f3a763a-b5f9-4b36-bf7b-00bd74433465" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +58,25 @@
       <option name="presentableId" value="Default" />
       <updated>1681935280186</updated>
     </task>
+    <task id="LOCAL-00001" summary="Complete version of the project">
+      <created>1681940964469</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681940964469</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Complete version of the project">
+      <created>1681941008381</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681941008381</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Complete version of the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete version of the project" />
   </component>
 </project>
