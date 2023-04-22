@@ -1,4 +1,4 @@
-package org.example;
+package julia.kaminska.coder.delivery.administration.domain;
 
 import java.util.Arrays;
 import java.util.List;
